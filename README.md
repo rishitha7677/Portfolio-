@@ -1,4 +1,4 @@
-Data Scientist
+Data Analyst
 Languages : Python (Pandas, Numpy, Matplotlib),JavaScript, HTML/CSS, XML, SQL.
 Visualization : Tableau, Power BI, Excel (Pivot Tables, Power Query), Dashboards and Reporting.
 Predictive Analysis : Regression Analysis (Linear, Logistic), Scikit-learn, Clustering (K-Means), Time Series Forecasting.
